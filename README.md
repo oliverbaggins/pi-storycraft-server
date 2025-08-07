@@ -92,6 +92,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Colaboradores
 
-Back-end, [Luiz Lopes](https://github.com/luizlopesbr)  
-Front-end, [Kauan Ribeiro](https://github.com/KauanRibeiroGondim)  
-Projeto para apoiar times ágeis na criação eficiente de histórias de usuário com auxílio da IA 
+- **Back-end:** [Luiz Lopes](https://github.com/luizlopesbr)  
+- **Front-end:** [Kauan Ribeiro](https://github.com/KauanRibeiroGondim)  
+- **UX/UI:** [Emmanuel Soares](https://www.linkedin.com/in/emmanuelss/)  
+
+#### Projeto para apoiar times ágeis na criação eficiente de histórias de usuário com auxílio da IA 
