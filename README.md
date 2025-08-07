@@ -1,6 +1,6 @@
 # StoryCraft – Gerador de Histórias de Usuário com ChatGPT
 
-**StoryCraft** é um backend Node.js que utiliza a API do ChatGPT para auxiliar usuários na criação de histórias de usuário (user stories) com base em perguntas e respostas simples. Ele permite a criação de projetos, geração automática de histórias, edição manual e organização das histórias para auxiliar times de desenvolvimento ágil.
+**StoryCraft** é um back-end Node.js que utiliza a API do ChatGPT para auxiliar usuários na criação de histórias de usuário (user stories) com base em perguntas e respostas simples. Ele permite a criação de projetos, geração automática de histórias, edição manual e organização das histórias para auxiliar times de desenvolvimento ágil.
 
 ## Funcionalidades
 
