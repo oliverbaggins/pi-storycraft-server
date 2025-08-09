@@ -19,7 +19,7 @@
 - Express.js
 - MongoDB com Mongoose
 - JWT para autenticação
-- OpenAI API (ChatGPT)
+- OpenAI API
 - JavaScript
 
 ## Estrutura do Projeto
