@@ -1,6 +1,6 @@
 # StoryCraft – Gerador de Histórias de Usuário com GPT
 
-**StoryCraft** utiliza a API da OpenAI utilizando o modelo gpt-3.5-turbo para auxiliar usuários na criação de histórias de usuário (user stories) com base em perguntas e respostas simples. Ele permite a criação de projetos, geração automática de histórias, edição manual e organização das histórias para auxiliar times de desenvolvimento ágil.
+**StoryCraft Server** é uma API que utiliza a API da OpenAI utilizando o modelo gpt-3.5-turbo para auxiliar usuários na criação de histórias de usuário (user stories) com base em perguntas e respostas simples. Ele permite a criação de projetos, geração automática de histórias, edição manual e organização das histórias para auxiliar times de desenvolvimento ágil.
 
 **Se o projeto não estiver gerando as histórias, é devido à falta de créditos.**
 
