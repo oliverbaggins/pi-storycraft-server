@@ -88,14 +88,8 @@ OPENAI_API_KEY=sua_chave_da_openai
 | PUT    | `/user-stories/:id`   | Edita uma história existente     |
 | DELETE | `/user-stories/:id`   | Remove uma história              |
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ## Colaboradores
 
 - **Back-end:** [Luiz Lopes](https://github.com/luizlopesbr)  
 - **Front-end:** [Kauan Ribeiro](https://github.com/KauanRibeiroGondim)  
-- **UX/UI:** [Emmanuel Soares](https://www.linkedin.com/in/emmanuelss/)  
-
-#### Projeto para apoiar times ágeis na criação eficiente de histórias de usuário com auxílio da IA 
+- **UX/UI:** [Emmanuel Soares](https://github.com/EmmanuelSoares)  
